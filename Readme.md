@@ -29,7 +29,7 @@
 
   git push -u origin master
 '''
-7. Remeber to turn on xampp/MySQL (Apache is not necessary)
+7. Remeber to turn on xampp/MySQL (Apache is not necessary)  
 8. final result
 
 
